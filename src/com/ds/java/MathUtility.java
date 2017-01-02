@@ -6,7 +6,11 @@ public class MathUtility{
 		return a + b;
 	}
 
-	public static int multipy(int a, int b){
+	public static int multipy(int a, int b) {
 		return a * b;
+	}
+
+	public static int subtract(int a, int b){
+		return a - b;
 	}
 }
